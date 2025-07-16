@@ -69,5 +69,5 @@ We welcome contributions! Please follow these steps:
 
 ## Contact
 
-For questions or suggestions, reach out at pankajkumar\_230261\@aitpune.edu.in .
+For questions or suggestions, reach out at rohitdabhade\_230369\@aitpune.edu.in .
 
